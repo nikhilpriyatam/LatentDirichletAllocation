@@ -9,3 +9,4 @@ Resources
 =========
 
 * http://times.cs.uiuc.edu/course/598f16/notes/lda-survey.pdf
+* https://towardsdatascience.com/bayesian-inference-problem-mcmc-and-variational-inference-25a8aa9bce29
